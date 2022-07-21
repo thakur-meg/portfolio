@@ -1,0 +1,21 @@
+
+.footer {
+    padding: 50px;
+    background-image: url('../assets/img/footer-bg.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .footer h2 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 2em;
+  }
+  .footer p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #B8B8B8;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+  }
+  
